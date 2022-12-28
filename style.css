@@ -1,7 +1,7 @@
 footer, main p {
 font-family: "Times New Roman";
 font-size: 12px;
-font-color: white;
+color: white;
 background-color: black;
 }
 .textContainer {
@@ -14,7 +14,7 @@ background-color: black;
  
 h1, h2, h3 {
   font-family: 'Wallington', 'Dubiel', 'Komoda';
-  font-color: white;
+  color: white;
   background-color: black;
 }
  h1 {
@@ -29,7 +29,7 @@ h1, h2, h3 {
 p, li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', sans-serif;
   font-size: 18px;
-  font-color: white;
+  color: white;
   background-color: black;
 }
 

@@ -1,6 +1,34 @@
 footer, main p {
-font-color: white;
 font-family: "Times New Roman";
 font-size: 12px;
+font-color: white;
 background-color: black;
+}
+.textContainer {
+  float: left;
+  width:400px;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+ 
+h1, h2, h3 {
+  font-family: 'Wallington', 'Dubiel', 'Komoda';
+  font-color: white;
+  background-color: black;
+}
+ h1 {
+   font-size:60px;
+}
+ h2 {
+   font-size:48px;
+}
+ h3 {
+   font-size:30px;
+}
+p, li {
+  font-family: 'Wallington', 'Dubiel', 'Komoda', sans-serif;
+  font-size: 18px;
+  font-color: white;
+  background-color: black;
 }

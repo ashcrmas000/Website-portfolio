@@ -32,3 +32,12 @@ p, li {
   font-color: white;
   background-color: black;
 }
+
+.imageContainer {
+  float: left;
+  width: 620px;
+}
+
+img {
+  width: 100%;
+}

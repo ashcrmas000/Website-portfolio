@@ -1,6 +1,64 @@
 <!DOCTYPE html>
+
 <html>
 <head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+<Title>A Little Bit About Me</Title>
+
 <link rel="stylesheet" type="text/css" href="style.css" />
+
 </head>
+
+
+<body>
+
+<!-- WEB PAGE CONTENT HERE -->
+
+<div class="pageContainer">
+<div class="textContainer">
+ <h1>A Little Bit About Me</h1>
+ 
+    <main>
+    
+   <h2>Who I Am Personally and Where I'm From</h2>
+   
+    <h3>Who I am Personally</h3>
+    
+    <p> I am a person who tries to spend time with his family, and enjoy myself in most situations, along with trying to get 
+      to know at least a few people at wherever I work in order to improve my social skills and improve cooperation with 
+      other people.</p>
+      
+    <h3>Where I'm From</h3>
+    
+    <ol>
+    <li>Birth place: Dallas, Tx</li>
+    <li>Currently living: Fort Worth, Tx</li>
+    </ol>
+    
+    <h2>About me</h2>
+    
+    <p>The main reason I decided to go into web developmenet is cause of all the opportunities that it has, along with 
+    helping me get to know all kinds of people who I can get along with and help each other in times of need. Besides that,
+    I enjoy reading a lot of Stephen King, playing video games, doing some fun activities, outdoor and indoor, and trying
+    new things that I have never really done before.
+    
+    <h2>Contacts</h2>
+    
+    <ul>
+    <li>LinkedIn: https://www.linkedin.com/in/masen-ashcraft-a36082260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK0FYDMoxQyCzCLlTog9Syw%3D%3D</li>
+
+    <li>GitHub: https://github.com/ashcrmas000</li>
+    </ul>
+    
+    </main>
+    
+    <footer>
+    <p>© Copyright 2022</p>
+		<p>Web page by Masen Ashcraft</p>
+    </footer>
+    
+  </div class>
+</div class>
+</body>
 </html>

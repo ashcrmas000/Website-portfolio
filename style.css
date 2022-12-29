@@ -31,6 +31,9 @@ p, li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', sans-serif;
   font-size: 24px;
   color: #ffffff;
+   text-align: left;
+  padding: 50px;
+  height: 100px;
 }
 
 .imageContainer {

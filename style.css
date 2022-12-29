@@ -23,11 +23,11 @@ h1, h2, h3 {
    font-size:48px;
 }
  h3 {
-   font-size:30px;
+   font-size:36px;
 }
 p, li {
-  font-family: 'Wallington', 'Dubiel', 'Komoda', sans-serif;
-  font-size: 24px;
+  font-family: 'Wallington', 'Dubiel', 'Komoda';
+  font-size: 28px;
   color: #ffffff;
    text-align: left;
 }

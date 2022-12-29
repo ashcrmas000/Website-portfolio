@@ -15,8 +15,8 @@ h1, h2, h3 {
   font-family: 'Wallington', 'Dubiel', 'Komoda';
   color: #ffffff;
   text-align: left;
-  padding: 50px;
-  height: 100px;
+  padding-top: 50px;
+  height: 10px;
 }
  h1 {
    font-size:60px;
@@ -32,8 +32,8 @@ p, li {
   font-size: 24px;
   color: #ffffff;
    text-align: left;
-  padding: 50px;
-  height: 100px;
+  padding-top: 30px;
+  height: 10px;
 }
 
 .imageContainer {

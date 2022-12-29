@@ -25,8 +25,14 @@ h1, h2, h3 {
  h3 {
    font-size:36px;
 }
-p, li {
-  font-family: 'Wallington', 'Dubiel', 'Komoda';
+ li {
+  font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
+  font-size: 28px;
+  color: #ffffff;
+   text-align: left;
+}
+p {
+    font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
   font-size: 28px;
   color: #ffffff;
    text-align: left;

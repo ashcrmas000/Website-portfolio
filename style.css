@@ -27,18 +27,14 @@ h1, h2, h3 {
  h3 {
    font-size:36px;
 }
-/* this sets the list item tags to the specifications below */
- li {
+/* this sets the list item and paragraph tags to the specifications below */
+ p, li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
-  font-size: 28px;
+  font-size: 21px;
   color: #ffffff;
    text-align: left;
 }
-/* this sets the paragraph tags to the specifications below */
-p {
-    font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
-  color: #ffffff;
-   text-align: left;
+
 }
 /* this sets the image to a certain size so it doesn't take up too much space*/
 .imageContainer {

@@ -1,6 +1,7 @@
+/*This sets the footer and main paragraph element to the specifications below*/
 footer, main p {
 font-family: "Times New Roman";
-font-size: 12px;
+font-size: 20px;
 color: #ffffff;
 }
 .textContainer {
@@ -27,8 +28,8 @@ h1, h2, h3 {
  h3 {
    font-size:36px;
 }
-/* this sets the list item and paragraph tags to the specifications below */
- p, li {
+/* this sets the list item tags to the specifications below */
+ li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
   font-size: 21px;
   color: #ffffff;

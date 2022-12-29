@@ -12,7 +12,7 @@ color: #ffffff;
   height:10px;
 }
 
- 
+ /* these set the three heading types I am using to a certain color and font */
 h1, h2, h3 {
   font-family: 'Wallington', 'Dubiel', 'Komoda';
   color: #ffffff;
@@ -27,18 +27,20 @@ h1, h2, h3 {
  h3 {
    font-size:36px;
 }
+/* this sets the list item tags to the specifications below */
  li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
   font-size: 28px;
   color: #ffffff;
    text-align: left;
 }
+/* this sets the paragraph tags to the specifications below */
 p {
     font-family: 'Wallington', 'Dubiel', 'Komoda', 'Times New Roman';
   color: #ffffff;
    text-align: left;
 }
-
+/* this sets the image to a certain size so it doesn't take up too much space*/
 .imageContainer {
   float: left;
   width: 620px;
@@ -51,6 +53,8 @@ img {
 body {
   background-color: black;
 }
+/*this sets the color for how a link will look when it usable, when you have clicked on it, 
+when it is being clicked, and when you are about to click it*/
 
 a:link {color: blue}
 

@@ -26,7 +26,7 @@ h1, h2, h3 {
 }
 p, li {
   font-family: 'Wallington', 'Dubiel', 'Komoda', sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   color: #ffffff;
 }
 
@@ -42,3 +42,11 @@ img {
 body {
   background-color: black;
 }
+
+a:link {color: blue}
+
+a:visited {color: purple}
+
+a:hover {color: blue}
+
+a:active {color: grey}
